@@ -1,0 +1,2 @@
+- I'm @xsuz.
+- I'm interested in machine learning and robotics
