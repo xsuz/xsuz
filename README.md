@@ -1,2 +1,3 @@
-- I'm @xsuz.
-- I'm interested in machine learning and robotics
+[![xsuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsuz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsuz)](https://github.com/anuraghazra/github-readme-stats)
